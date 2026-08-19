@@ -2,7 +2,7 @@
 Two rows x five panels. Top row (a)-(e): double-well, coupling D, descending, five networks (ascending by N).
 Bottom row (f)-(j): double-well, stress u, descending, five networks (ascending by N). Each panel shows the
 five classical spatial EWS (V, CV, sign-adjusted skewness g1, kurtosis g2, Moran's I) over the home range,
-each min-max normalised to [0,1]; x runs far->tipping; dotted line = first tipping.
+each min-max normalized to [0,1]; x runs far->tipping; dotted line = first tipping.
 Output: figures/fig_existing_methods.png
 """
 import os, json, numpy as np

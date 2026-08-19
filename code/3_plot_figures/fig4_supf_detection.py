@@ -25,7 +25,7 @@ def mat(col):
     return np.array([[float(D[(c,e)][col]) if (c,e) in D and D[(c,e)][col]!="" else np.nan for e in EWS] for c in CKEY])
 A=mat("mean_nonseq"); Bm=mat("mean_seq"); C=mat("mean_lead")
 # The lead is an average over the networks that raised a valid alarm, so it is undefined when an EWS
-# alarms in none of the 40 networks. Such cells are drawn in grey and labelled N/A, which distinguishes
+# alarms in none of the 40 networks. Such cells are drawn in gray and labeled N/A, which distinguishes
 # "no alarm, hence no lead" from a genuine lead of 0.
 CMAP=copy.copy(plt.cm.Greens); CMAP.set_bad("#e6e6e6")
 fig,axs=plt.subplots(1,3,figsize=(13.5,5.6))

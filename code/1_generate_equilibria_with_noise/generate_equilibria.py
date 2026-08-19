@@ -276,7 +276,7 @@ MANIFEST_COLS = ["label","model","network","cparam","direction","N","dt","far","
 def write_manifest():
     """Write _manifest.csv, one row per simulation condition, by scanning every .json in OUT.
 
-    The manifest summarises all 400 runs in a single table: network size, time step, control-parameter
+    The manifest summarizes all 400 runs in a single table: network size, time step, control-parameter
     range, home-range length and status. Scanning the output directory means it stays complete when
     only a subset of conditions is regenerated via the optional substring argument.
     """

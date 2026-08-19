@@ -4,7 +4,7 @@ Every analysis in this repository computes its early warning signals over the ho
 definition lives here once and is imported everywhere rather than repeated per script.
 
 DEFINITION (as in the manuscript). Sweeping the control parameter gives states x_i at control values
-c_0, c_1, ..., c_99, ordered from far from the transition towards it. A node counts as still being in
+c_0, c_1, ..., c_99, ordered from far from the transition toward it. A node counts as still being in
 its initial state while x_i < basin (ascending runs) or x_i > basin (descending runs), with `basin`
 taken from model_parameters.PARAMS. The home range is the CONTIGUOUS run of control values from c_0
 up to but excluding the first one at which ANY node has left its initial state:

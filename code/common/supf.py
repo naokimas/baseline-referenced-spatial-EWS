@@ -22,7 +22,7 @@ parameters, and the ell-4 denominator degrees of freedom in supf_window). Compar
 single straight line gives the F statistic for a common intercept and slope -- the classical Chow
 (1960) statistic for a break at a prescribed point. The sup-F statistic is the supremum of that F
 over all admissible breakpoints (Quandt 1960; Andrews 1993). Its null distribution is not the usual
-F distribution, because the breakpoint is chosen to maximise the statistic, so we obtain the null by
+F distribution, because the breakpoint is chosen to maximize the statistic, so we obtain the null by
 Monte-Carlo simulation instead (see calibrate).
 
 NAMING. Andrews (1993) also defines sup-Wald, sup-LM and sup-LR forms of this test. In a Gaussian
@@ -72,7 +72,7 @@ def supf_window(P, ell):
 
     Breakpoints are trimmed so each segment keeps at least 15% of the points (and at least 4): a
     segment with very few points has an unstable slope and would inflate F. The two returned slopes
-    belong to the maximising breakpoint and are what steepen() inspects.
+    belong to the maximizing breakpoint and are what steepen() inspects.
     """
     ms = max(4, int(np.ceil(0.15 * ell))); ks = np.arange(ms, ell - ms + 1)
     if len(ks) == 0 or ell - 4 <= 0:

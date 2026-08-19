@@ -1,6 +1,6 @@
 """Figure: the two baseline-referenced variants of the spatial variance, cosmetically matched to Fig 1.
 Same 10 panels/order as fig_existing_methods.png. Each panel shows V (blue, identical to Fig 1), V_Delta
-(green), V_rel (red), each min-max normalised to [0,1]. Output: figures/fig_variance_variants.png
+(green), V_rel (red), each min-max normalized to [0,1]. Output: figures/fig_variance_variants.png
 """
 import os, json, numpy as np
 import matplotlib; matplotlib.use("Agg")
