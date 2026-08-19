@@ -1,0 +1,401 @@
+"dynamics","cparam","direction","network","network_name","N","rng.far","rng.near","deltaT","D","u","home_len","home_boundary"
+"SIS","D","down","SITC","Product",774,1.0,0.0,0.01,"NA",0.0,57,0.434343
+"SIS","D","down","adjnoun","Word",112,1.0,0.0,0.01,"NA",0.0,90,0.10101
+"SIS","D","down","barabasialbert","BA",100,1.0,0.0,0.01,"NA",0.0,85,0.151515
+"SIS","D","down","canton","Canton",109,1.0,0.0,0.01,"NA",0.0,93,0.070707
+"SIS","D","down","catlins","Catlins",59,1.0,0.0,0.01,"NA",0.0,77,0.232323
+"SIS","D","down","chesapeake","Chesapeake",39,1.0,0.0,0.01,"NA",0.0,91,0.090909
+"SIS","D","down","contigusa","Geographic",49,1.0,0.0,0.01,"NA",0.0,76,0.242424
+"SIS","D","down","dolphin","Dolphin",62,1.0,0.0,0.01,"NA",0.0,82,0.181818
+"SIS","D","down","drug","Drug interaction",75,1.0,0.0,0.01,"NA",0.0,85,0.151515
+"SIS","D","down","ecoli","E. coli",328,1.0,0.0,0.01,"NA",0.0,71,0.292929
+"SIS","D","down","email_company","Email",167,1.0,0.0,0.01,"NA",0.0,91,0.090909
+"SIS","D","down","erdos","Erdős collaboration",6927,0.856791,0.0,0.001,"NA",0.0,89,0.095199
+"SIS","D","down","erdosrenyi","ER",100,1.0,0.0,0.01,"NA",0.0,82,0.181818
+"SIS","D","down","flamingo","Flamingo software",228,1.0,0.0,0.01,"NA",0.0,76,0.242424
+"SIS","D","down","football","Football",115,1.0,0.0,0.01,"NA",0.0,90,0.10101
+"SIS","D","down","gap_junction_herm","C. elegans neuronal",460,1.0,0.4,0.01,"NA",0.0,81,0.515152
+"SIS","D","down","genefusion","Gene fusion",110,1.0,0.0,0.01,"NA",0.0,68,0.323232
+"SIS","D","down","gkk","GKK",96,1.0,0.0,0.01,"NA",0.0,88,0.121212
+"SIS","D","down","hk100","HK",100,1.0,0.0,0.01,"NA",0.0,84,0.161616
+"SIS","D","down","iceland","Contact",75,1.0,0.0,0.01,"NA",0.0,79,0.212121
+"SIS","D","down","jazz","Jazz player",198,1.0,0.0,0.01,"NA",0.0,90,0.10101
+"SIS","D","down","jung_c","JUNG software",879,1.0,0.0,0.01,"NA",0.0,81,0.191919
+"SIS","D","down","lattice","Lattice",100,1.0,0.0,0.01,"NA",0.0,76,0.242424
+"SIS","D","down","london_transport","Transportation",369,1.0,0.2,0.01,"NA",0.0,63,0.49899
+"SIS","D","down","metabolic","C. elegans metabolic",453,1.0,0.0,0.005,"NA",0.0,85,0.151515
+"SIS","D","down","montreal","Montreal",29,1.0,0.0,0.01,"NA",0.0,86,0.141414
+"SIS","D","down","netsci","Coauthorship",379,1.0,0.0,0.01,"NA",0.0,77,0.232323
+"SIS","D","down","physician_trust","Physician",117,1.0,0.0,0.01,"NA",0.0,89,0.111111
+"SIS","D","down","powergrid","US power grid",4941,1.00086,0.318705,0.001,"NA",0.0,84,0.428952
+"SIS","D","down","protein","Protein",161,1.0,0.0,0.01,"NA",0.0,72,0.282828
+"SIS","D","down","proximity","Proximity",410,1.0,0.0,0.01,"NA",0.0,89,0.111111
+"SIS","D","down","routeviews","Route views",6474,1.001196,0.05211,0.001,"NA",0.0,84,0.205498
+"SIS","D","down","smallworld","WS",100,1.0,0.0,0.01,"NA",0.0,88,0.121212
+"SIS","D","down","students","Student",141,1.0,0.0,0.01,"NA",0.0,67,0.333333
+"SIS","D","down","train_terrorists","Terrorist",64,1.0,0.0,0.01,"NA",0.0,87,0.131313
+"SIS","D","down","ug_village","Village",187,1.0,0.0,0.01,"NA",0.0,80,0.20202
+"SIS","D","down","urv_email","U. Rovira i Virgili",1133,0.969149,0.0,0.001,"NA",0.0,85,0.146841
+"SIS","D","down","wiki_ht","Wikipedia user",404,1.0,0.0,0.01,"NA",0.0,77,0.232323
+"SIS","D","down","windsurfers","Windsurfer",43,1.0,0.0,0.01,"NA",0.0,94,0.060606
+"SIS","D","down","yeast","S. cerevisiae",664,1.0,0.0,0.01,"NA",0.0,69,0.313131
+"SIS","D","up","SITC","Product",774,0.0,0.1,0.01,"NA",0.0,48,0.047475
+"SIS","D","up","adjnoun","Word",112,0.0,0.2,0.01,"NA",0.0,37,0.072727
+"SIS","D","up","barabasialbert","BA",100,0.0,0.3,0.01,"NA",0.0,39,0.115152
+"SIS","D","up","canton","Canton",109,0.0,0.1,0.01,"NA",0.0,51,0.050505
+"SIS","D","up","catlins","Catlins",59,0.0,0.3,0.01,"NA",0.0,42,0.124242
+"SIS","D","up","chesapeake","Chesapeake",39,0.0,0.2,0.01,"NA",0.0,43,0.084848
+"SIS","D","up","contigusa","Geographic",49,0.0,0.3,0.01,"NA",0.0,62,0.184848
+"SIS","D","up","dolphin","Dolphin",62,0.0,0.3,0.01,"NA",0.0,44,0.130303
+"SIS","D","up","drug","Drug interaction",75,0.0,0.3,0.01,"NA",0.0,39,0.115152
+"SIS","D","up","ecoli","E. coli",328,0.0,0.2,0.01,"NA",0.0,39,0.076768
+"SIS","D","up","email_company","Email",167,0.0,0.025,0.01,"NA",0.0,65,0.016162
+"SIS","D","up","erdos","Erdős collaboration",6927,0.0,0.016556,0.001,"NA",0.0,79,0.013044
+"SIS","D","up","erdosrenyi","ER",100,0.0,0.2,0.01,"NA",0.0,82,0.163636
+"SIS","D","up","flamingo","Flamingo software",228,0.0,0.2,0.01,"NA",0.0,43,0.084848
+"SIS","D","up","football","Football",115,0.0,0.2,0.01,"NA",0.0,47,0.092929
+"SIS","D","up","gap_junction_herm","C. elegans neuronal",460,0.0,0.1,0.01,"NA",0.0,58,0.057576
+"SIS","D","up","genefusion","Gene fusion",110,0.0,0.3,0.01,"NA",0.0,53,0.157576
+"SIS","D","up","gkk","GKK",96,0.0,0.1,0.01,"NA",0.0,68,0.067677
+"SIS","D","up","hk100","HK",100,0.0,0.3,0.01,"NA",0.0,46,0.136364
+"SIS","D","up","iceland","Contact",75,0.0,0.3,0.01,"NA",0.0,46,0.136364
+"SIS","D","up","jazz","Jazz player",198,0.0,0.05,0.01,"NA",0.0,49,0.024242
+"SIS","D","up","jung_c","JUNG software",879,0.0,0.1,0.01,"NA",0.0,46,0.045455
+"SIS","D","up","lattice","Lattice",100,0.0,0.3,0.01,"NA",0.0,84,0.251515
+"SIS","D","up","london_transport","Transportation",369,0.0,0.4,0.01,"NA",0.0,63,0.250505
+"SIS","D","up","metabolic","C. elegans metabolic",453,0.0,0.05,0.01,"NA",0.0,54,0.026768
+"SIS","D","up","montreal","Montreal",29,0.0,0.2,0.01,"NA",0.0,62,0.123232
+"SIS","D","up","netsci","Coauthorship",379,0.0,0.2,0.01,"NA",0.0,46,0.090909
+"SIS","D","up","physician_trust","Physician",117,0.0,0.2,0.01,"NA",0.0,48,0.094949
+"SIS","D","up","powergrid","US power grid",4941,0.0,0.18261,0.001,"NA",0.0,70,0.127274
+"SIS","D","up","protein","Protein",161,0.0,0.3,0.01,"NA",0.0,53,0.157576
+"SIS","D","up","proximity","Proximity",410,0.0,0.1,0.01,"NA",0.0,42,0.041414
+"SIS","D","up","routeviews","Route views",6474,0.0,0.00786,0.001,"NA",0.0,65,0.005081
+"SIS","D","up","smallworld","WS",100,0.0,0.2,0.01,"NA",0.0,62,0.123232
+"SIS","D","up","students","Student",141,0.0,0.3,0.01,"NA",0.0,69,0.206061
+"SIS","D","up","train_terrorists","Terrorist",64,0.0,0.1,0.01,"NA",0.0,74,0.073737
+"SIS","D","up","ug_village","Village",187,0.0,0.2,0.01,"NA",0.0,38,0.074747
+"SIS","D","up","urv_email","U. Rovira i Virgili",1133,0.0,0.093601,0.001,"NA",0.0,48,0.044437
+"SIS","D","up","wiki_ht","Wikipedia user",404,0.0,0.1,0.01,"NA",0.0,41,0.040404
+"SIS","D","up","windsurfers","Windsurfer",43,0.0,0.1,0.01,"NA",0.0,56,0.055556
+"SIS","D","up","yeast","S. cerevisiae",664,0.0,0.2,0.01,"NA",0.0,38,0.074747
+"doublewell","D","down","SITC","Product",774,1.0,0.3,0.01,"NA",-5.0,82,0.427273
+"doublewell","D","down","adjnoun","Word",112,1.0,0.3,0.01,"NA",-5.0,90,0.370707
+"doublewell","D","down","barabasialbert","BA",100,1.0,0.0,0.01,"NA",-5.0,79,0.212121
+"doublewell","D","down","canton","Canton",109,1.0,0.3,0.01,"NA",-5.0,95,0.335354
+"doublewell","D","down","catlins","Catlins",59,1.0,0.3,0.01,"NA",-5.0,84,0.413131
+"doublewell","D","down","chesapeake","Chesapeake",39,1.0,0.1,0.01,"NA",-5.0,96,0.136364
+"doublewell","D","down","contigusa","Geographic",49,1.0,0.3,0.01,"NA",-5.0,87,0.391919
+"doublewell","D","down","dolphin","Dolphin",62,1.0,0.3,0.01,"NA",-5.0,88,0.384848
+"doublewell","D","down","drug","Drug interaction",75,1.0,0.3,0.01,"NA",-5.0,86,0.39899
+"doublewell","D","down","ecoli","E. coli",328,1.0,0.3,0.01,"NA",-5.0,82,0.427273
+"doublewell","D","down","email_company","Email",167,0.9,0.3,0.005,"NA",-5.0,84,0.39697
+"doublewell","D","down","erdos","Erdős collaboration",6927,0.994633,0.243274,0.001,"NA",-5.0,82,0.379885
+"doublewell","D","down","erdosrenyi","ER",100,1.0,0.3,0.01,"NA",-5.0,90,0.370707
+"doublewell","D","down","flamingo","Flamingo software",228,1.0,0.3,0.01,"NA",-5.0,83,0.420202
+"doublewell","D","down","football","Football",115,1.0,0.0,0.01,"NA",-5.0,93,0.070707
+"doublewell","D","down","gap_junction_herm","C. elegans neuronal",460,1.0,0.3,0.01,"NA",-5.0,83,0.420202
+"doublewell","D","down","genefusion","Gene fusion",110,1.0,0.3,0.01,"NA",-5.0,83,0.420202
+"doublewell","D","down","gkk","GKK",96,1.0,0.3,0.01,"NA",-5.0,85,0.406061
+"doublewell","D","down","hk100","HK",100,1.0,0.1,0.01,"NA",-5.0,87,0.218182
+"doublewell","D","down","iceland","Contact",75,1.0,0.3,0.01,"NA",-5.0,87,0.391919
+"doublewell","D","down","jazz","Jazz player",198,0.6,0.3,0.01,"NA",-5.0,79,0.363636
+"doublewell","D","down","jung_c","JUNG software",879,1.0,0.3,0.005,"NA",-5.0,84,0.413131
+"doublewell","D","down","lattice","Lattice",100,1.0,0.0,0.01,"NA",-5.0,88,0.121212
+"doublewell","D","down","london_transport","Transportation",369,1.0,0.3,0.01,"NA",-5.0,82,0.427273
+"doublewell","D","down","metabolic","C. elegans metabolic",453,0.8,0.3,0.005,"NA",-5.0,79,0.406061
+"doublewell","D","down","montreal","Montreal",29,1.0,0.3,0.01,"NA",-5.0,91,0.363636
+"doublewell","D","down","netsci","Coauthorship",379,1.0,0.3,0.01,"NA",-5.0,86,0.39899
+"doublewell","D","down","physician_trust","Physician",117,1.0,0.0,0.01,"NA",-5.0,80,0.20202
+"doublewell","D","down","powergrid","US power grid",4941,1.000897,0.289083,0.001,"NA",-5.0,80,0.432884
+"doublewell","D","down","protein","Protein",161,1.0,0.3,0.01,"NA",-5.0,84,0.413131
+"doublewell","D","down","proximity","Proximity",410,1.0,0.3,0.01,"NA",-5.0,90,0.370707
+"doublewell","D","down","routeviews","Route views",6474,1.000897,0.289083,0.001,"NA",-5.0,82,0.418504
+"doublewell","D","down","smallworld","WS",100,1.0,0.0,0.01,"NA",-5.0,92,0.080808
+"doublewell","D","down","students","Student",141,1.0,0.3,0.01,"NA",-5.0,88,0.384848
+"doublewell","D","down","train_terrorists","Terrorist",64,1.0,0.3,0.01,"NA",-5.0,94,0.342424
+"doublewell","D","down","ug_village","Village",187,1.0,0.3,0.01,"NA",-5.0,84,0.413131
+"doublewell","D","down","urv_email","U. Rovira i Virgili",1133,0.994916,0.283102,0.001,"NA",-5.0,82,0.412522
+"doublewell","D","down","wiki_ht","Wikipedia user",404,1.0,0.3,0.001,"NA",-5.0,83,0.420202
+"doublewell","D","down","windsurfers","Windsurfer",43,1.0,0.0,0.01,"NA",-5.0,93,0.070707
+"doublewell","D","down","yeast","S. cerevisiae",664,1.0,0.3,0.01,"NA",-5.0,84,0.413131
+"doublewell","D","up","SITC","Product",774,0.0,0.1,0.01,"NA",0.0,60,0.059596
+"doublewell","D","up","adjnoun","Word",112,0.0,0.1,0.01,"NA",0.0,57,0.056566
+"doublewell","D","up","barabasialbert","BA",100,0.0,0.15,0.01,"NA",0.0,67,0.1
+"doublewell","D","up","canton","Canton",109,0.0,0.1,0.01,"NA",0.0,55,0.054545
+"doublewell","D","up","catlins","Catlins",59,0.0,0.2,0.01,"NA",0.0,53,0.105051
+"doublewell","D","up","chesapeake","Chesapeake",39,0.0,0.1,0.01,"NA",0.0,82,0.081818
+"doublewell","D","up","contigusa","Geographic",49,0.0,0.4,0.01,"NA",0.0,67,0.266667
+"doublewell","D","up","dolphin","Dolphin",62,0.0,0.2,0.01,"NA",0.0,97,0.193939
+"doublewell","D","up","drug","Drug interaction",75,0.0,0.2,0.01,"NA",0.0,56,0.111111
+"doublewell","D","up","ecoli","E. coli",328,0.0,0.05,0.01,"NA",0.0,82,0.040909
+"doublewell","D","up","email_company","Email",167,0.0,0.025,0.01,"NA",0.0,73,0.018182
+"doublewell","D","up","erdos","Erdős collaboration",6927,0.0,0.007275,0.001,"NA",0.0,79,0.005731
+"doublewell","D","up","erdosrenyi","ER",100,0.0,0.3,0.01,"NA",0.0,73,0.218182
+"doublewell","D","up","flamingo","Flamingo software",228,0.0,0.1,0.01,"NA",0.0,70,0.069697
+"doublewell","D","up","football","Football",115,0.0,0.2,0.01,"NA",0.0,79,0.157576
+"doublewell","D","up","gap_junction_herm","C. elegans neuronal",460,0.0,0.05,0.01,"NA",0.0,92,0.04596
+"doublewell","D","up","genefusion","Gene fusion",110,0.0,0.2,0.01,"NA",0.0,50,0.09899
+"doublewell","D","up","gkk","GKK",96,0.0,0.05,0.01,"NA",0.0,96,0.04798
+"doublewell","D","up","hk100","HK",100,0.0,0.2,0.01,"NA",0.0,59,0.117172
+"doublewell","D","up","iceland","Contact",75,0.0,0.2,0.01,"NA",0.0,57,0.113131
+"doublewell","D","up","jazz","Jazz player",198,0.0,0.05,0.01,"NA",0.0,52,0.025758
+"doublewell","D","up","jung_c","JUNG software",879,0.0,0.05,0.005,"NA",0.0,65,0.032323
+"doublewell","D","up","lattice","Lattice",100,0.0,0.5,0.01,"NA",0.0,88,0.439394
+"doublewell","D","up","london_transport","Transportation",369,0.0,0.4,0.01,"NA",0.0,87,0.347475
+"doublewell","D","up","metabolic","C. elegans metabolic",453,0.0,0.025,0.01,"NA",0.0,50,0.012374
+"doublewell","D","up","montreal","Montreal",29,0.0,0.2,0.01,"NA",0.0,71,0.141414
+"doublewell","D","up","netsci","Coauthorship",379,0.0,0.1,0.01,"NA",0.0,81,0.080808
+"doublewell","D","up","physician_trust","Physician",117,0.0,0.2,0.01,"NA",0.0,49,0.09697
+"doublewell","D","up","powergrid","US power grid",4941,0.0,0.193519,0.001,"NA",0.0,74,0.142696
+"doublewell","D","up","protein","Protein",161,0.0,0.2,0.01,"NA",0.0,67,0.133333
+"doublewell","D","up","proximity","Proximity",410,0.0,0.1,0.01,"NA",0.0,52,0.051515
+"doublewell","D","up","routeviews","Route views",6474,0.0,0.0028,0.001,"NA",0.0,74,0.002064
+"doublewell","D","up","smallworld","WS",100,0.0,0.3,0.01,"NA",0.0,68,0.20303
+"doublewell","D","up","students","Student",141,0.0,0.3,0.01,"NA",0.0,89,0.266667
+"doublewell","D","up","train_terrorists","Terrorist",64,0.0,0.1,0.01,"NA",0.0,86,0.085859
+"doublewell","D","up","ug_village","Village",187,0.0,0.1,0.01,"NA",0.0,48,0.047475
+"doublewell","D","up","urv_email","U. Rovira i Virgili",1133,0.0,0.083216,0.001,"NA",0.0,45,0.036985
+"doublewell","D","up","wiki_ht","Wikipedia user",404,0.0,0.025,0.001,"NA",0.0,62,0.015404
+"doublewell","D","up","windsurfers","Windsurfer",43,0.0,0.1,0.01,"NA",0.0,77,0.076768
+"doublewell","D","up","yeast","S. cerevisiae",664,0.0,0.05,0.01,"NA",0.0,83,0.041414
+"doublewell","u","down","SITC","Product",774,0.0,-4.0,0.01,0.05,"NA",79,-3.151515
+"doublewell","u","down","adjnoun","Word",112,0.0,-4.0,0.01,0.05,"NA",81,-3.232323
+"doublewell","u","down","barabasialbert","BA",100,0.0,-4.0,0.01,0.05,"NA",85,-3.393939
+"doublewell","u","down","canton","Canton",109,0.0,-4.0,0.01,0.05,"NA",81,-3.232323
+"doublewell","u","down","catlins","Catlins",59,0.0,-4.0,0.01,0.05,"NA",79,-3.151515
+"doublewell","u","down","chesapeake","Chesapeake",39,0.0,-4.0,0.01,0.05,"NA",93,-3.717172
+"doublewell","u","down","contigusa","Geographic",49,0.0,-4.0,0.01,0.05,"NA",81,-3.232323
+"doublewell","u","down","dolphin","Dolphin",62,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","drug","Drug interaction",75,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","ecoli","E. coli",328,0.0,-4.0,0.01,0.05,"NA",79,-3.151515
+"doublewell","u","down","email_company","Email",167,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","erdos","Erdős collaboration",6927,0.004935,-3.910043,0.001,0.05,"NA",80,-3.119139
+"doublewell","u","down","erdosrenyi","ER",100,0.0,-4.0,0.01,0.05,"NA",81,-3.232323
+"doublewell","u","down","flamingo","Flamingo software",228,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","football","Football",115,0.0,-5.0,0.01,0.05,"NA",92,-4.59596
+"doublewell","u","down","gap_junction_herm","C. elegans neuronal",460,0.0,-4.0,0.01,0.05,"NA",79,-3.151515
+"doublewell","u","down","genefusion","Gene fusion",110,0.0,-4.0,0.01,0.05,"NA",79,-3.151515
+"doublewell","u","down","gkk","GKK",96,0.0,-3.5,0.01,0.05,"NA",91,-3.181818
+"doublewell","u","down","hk100","HK",100,0.0,-4.0,0.01,0.05,"NA",85,-3.393939
+"doublewell","u","down","iceland","Contact",75,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","jazz","Jazz player",198,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","jung_c","JUNG software",879,0.0,-4.0,0.01,0.05,"NA",78,-3.111111
+"doublewell","u","down","lattice","Lattice",100,0.0,-4.0,0.01,0.05,"NA",95,-3.79798
+"doublewell","u","down","london_transport","Transportation",369,0.0,-4.0,0.01,0.05,"NA",79,-3.151515
+"doublewell","u","down","metabolic","C. elegans metabolic",453,0.0,-4.0,0.01,0.05,"NA",81,-3.232323
+"doublewell","u","down","montreal","Montreal",29,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","netsci","Coauthorship",379,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","physician_trust","Physician",117,0.0,-4.0,0.01,0.05,"NA",85,-3.393939
+"doublewell","u","down","powergrid","US power grid",4941,0.004935,-3.910043,0.001,0.05,"NA",80,-3.119139
+"doublewell","u","down","protein","Protein",161,0.0,-4.0,0.01,0.05,"NA",79,-3.151515
+"doublewell","u","down","proximity","Proximity",410,0.0,-4.0,0.01,0.05,"NA",81,-3.232323
+"doublewell","u","down","routeviews","Route views",6474,0.004935,-3.910043,0.001,0.05,"NA",81,-3.158684
+"doublewell","u","down","smallworld","WS",100,0.0,-5.0,0.01,0.05,"NA",87,-4.343434
+"doublewell","u","down","students","Student",141,0.0,-4.0,0.01,0.05,"NA",81,-3.232323
+"doublewell","u","down","train_terrorists","Terrorist",64,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","ug_village","Village",187,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","urv_email","U. Rovira i Virgili",1133,0.004935,-3.910043,0.001,0.05,"NA",81,-3.158684
+"doublewell","u","down","wiki_ht","Wikipedia user",404,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"doublewell","u","down","windsurfers","Windsurfer",43,0.0,-5.0,0.01,0.05,"NA",91,-4.545455
+"doublewell","u","down","yeast","S. cerevisiae",664,0.0,-4.0,0.01,0.05,"NA",79,-3.151515
+"doublewell","u","up","SITC","Product",774,0.0,1.0,0.01,0.05,"NA",40,0.393939
+"doublewell","u","up","adjnoun","Word",112,0.0,0.5,0.01,0.05,"NA",51,0.252525
+"doublewell","u","up","barabasialbert","BA",100,0.0,2.0,0.01,0.05,"NA",65,1.292929
+"doublewell","u","up","canton","Canton",109,0.0,0.5,0.01,0.05,"NA",45,0.222222
+"doublewell","u","up","catlins","Catlins",59,0.0,1.5,0.01,0.05,"NA",91,1.363636
+"doublewell","u","up","chesapeake","Chesapeake",39,0.0,1.5,0.01,0.05,"NA",66,0.984848
+"doublewell","u","up","contigusa","Geographic",49,0.0,3.0,0.01,0.05,"NA",79,2.363636
+"doublewell","u","up","dolphin","Dolphin",62,0.0,2.5,0.01,0.05,"NA",84,2.09596
+"doublewell","u","up","drug","Drug interaction",75,0.0,2.0,0.01,0.05,"NA",74,1.474747
+"doublewell","u","up","ecoli","E. coli",328,-0.671091,-0.371091,0.01,0.05,"NA",70,-0.462
+"doublewell","u","up","email_company","Email",167,-3.5,-3.242956,0.01,0.05,"NA",71,-3.318252
+"doublewell","u","up","erdos","Erdős collaboration",6927,-7.899158,-7.599158,0.001,0.05,"NA",68,-7.696128
+"doublewell","u","up","erdosrenyi","ER",100,0.0,2.5,0.01,0.05,"NA",88,2.19697
+"doublewell","u","up","flamingo","Flamingo software",228,0.0,1.0,0.01,0.05,"NA",71,0.707071
+"doublewell","u","up","football","Football",115,0.0,3.0,0.01,0.05,"NA",66,1.969697
+"doublewell","u","up","gap_junction_herm","C. elegans neuronal",460,-0.5,-0.084775,0.01,0.05,"NA",67,-0.223183
+"doublewell","u","up","genefusion","Gene fusion",110,0.0,2.0,0.01,0.05,"NA",62,1.232323
+"doublewell","u","up","gkk","GKK",96,-0.375,0.025395,0.01,0.05,"NA",63,-0.124248
+"doublewell","u","up","hk100","HK",100,0.0,2.0,0.01,0.05,"NA",76,1.515152
+"doublewell","u","up","iceland","Contact",75,0.0,2.0,0.01,0.05,"NA",73,1.454545
+"doublewell","u","up","jazz","Jazz player",198,-2.0,-1.881364,0.01,0.05,"NA",53,-1.937686
+"doublewell","u","up","jung_c","JUNG software",879,-1.25,-1.042388,0.01,0.05,"NA",42,-1.164019
+"doublewell","u","up","lattice","Lattice",100,0.0,3.0,0.01,0.05,"NA",86,2.575758
+"doublewell","u","up","london_transport","Transportation",369,0.0,3.0,0.01,0.05,"NA",82,2.454545
+"doublewell","u","up","metabolic","C. elegans metabolic",453,-4.5,-4.302274,0.01,0.05,"NA",44,-4.414119
+"doublewell","u","up","montreal","Montreal",29,0.0,2.0,0.01,0.05,"NA",88,1.757576
+"doublewell","u","up","netsci","Coauthorship",379,0.0,1.5,0.01,0.05,"NA",63,0.939394
+"doublewell","u","up","physician_trust","Physician",117,0.0,1.5,0.01,0.05,"NA",87,1.30303
+"doublewell","u","up","powergrid","US power grid",4941,-0.002692,2.13275,0.001,0.05,"NA",82,1.744488
+"doublewell","u","up","protein","Protein",161,0.0,2.0,0.01,0.05,"NA",82,1.636364
+"doublewell","u","up","proximity","Proximity",410,0.0,0.25,0.01,0.05,"NA",45,0.111111
+"doublewell","u","up","routeviews","Route views",6474,-12.70183,-12.40183,0.001,0.05,"NA",88,-12.438194
+"doublewell","u","up","smallworld","WS",100,0.0,2.5,0.01,0.05,"NA",88,2.19697
+"doublewell","u","up","students","Student",141,0.0,2.5,0.01,0.05,"NA",93,2.323232
+"doublewell","u","up","train_terrorists","Terrorist",64,0.0,1.5,0.01,0.05,"NA",72,1.075758
+"doublewell","u","up","ug_village","Village",187,-0.5,0.053633,0.01,0.05,"NA",67,-0.130911
+"doublewell","u","up","urv_email","U. Rovira i Virgili",1133,-1.559244,-0.559244,0.001,0.05,"NA",80,-0.761264
+"doublewell","u","up","wiki_ht","Wikipedia user",404,-3.689202,-3.389202,0.01,0.05,"NA",70,-3.480112
+"doublewell","u","up","windsurfers","Windsurfer",43,0.0,1.0,0.01,0.05,"NA",89,0.888889
+"doublewell","u","up","yeast","S. cerevisiae",664,-0.5,-0.341819,0.01,0.05,"NA",41,-0.436088
+"genereg","D","down","SITC","Product",774,1.5,0.5,0.01,"NA",0.0,51,0.994949
+"genereg","D","down","adjnoun","Word",112,1.0,0.0,0.01,"NA",0.0,81,0.191919
+"genereg","D","down","barabasialbert","BA",100,1.0,0.2,0.01,"NA",0.0,81,0.353535
+"genereg","D","down","canton","Canton",109,1.0,0.0,0.01,"NA",0.0,89,0.111111
+"genereg","D","down","catlins","Catlins",59,1.0,0.2,0.01,"NA",0.0,65,0.482828
+"genereg","D","down","chesapeake","Chesapeake",39,1.0,0.0,0.01,"NA",0.0,81,0.191919
+"genereg","D","down","contigusa","Geographic",49,1.0,0.3,0.01,"NA",0.0,65,0.547475
+"genereg","D","down","dolphin","Dolphin",62,1.0,0.2,0.01,"NA",0.0,83,0.337374
+"genereg","D","down","drug","Drug interaction",75,1.0,0.2,0.01,"NA",0.0,90,0.280808
+"genereg","D","down","ecoli","E. coli",328,1.4,0.6,0.01,"NA",0.0,81,0.753535
+"genereg","D","down","email_company","Email",167,1.0,0.0,0.01,"NA",0.0,83,0.171717
+"genereg","D","down","erdos","Erdős collaboration",6927,1.392314,0.0,0.001,"NA",0.0,86,0.196893
+"genereg","D","down","erdosrenyi","ER",100,1.0,0.2,0.01,"NA",0.0,81,0.353535
+"genereg","D","down","flamingo","Flamingo software",228,1.2,0.4,0.01,"NA",0.0,85,0.521212
+"genereg","D","down","football","Football",115,1.0,0.1,0.01,"NA",0.0,90,0.190909
+"genereg","D","down","gap_junction_herm","C. elegans neuronal",460,1.5,1.0,0.01,"NA",0.0,87,1.065657
+"genereg","D","down","genefusion","Gene fusion",110,1.5,0.5,0.01,"NA",0.0,70,0.80303
+"genereg","D","down","gkk","GKK",96,1.5,0.0,0.01,"NA",0.0,86,0.212121
+"genereg","D","down","hk100","HK",100,1.0,0.3,0.01,"NA",0.0,91,0.363636
+"genereg","D","down","iceland","Contact",75,1.0,0.3,0.01,"NA",0.0,80,0.441414
+"genereg","D","down","jazz","Jazz player",198,1.0,0.0,0.01,"NA",0.0,78,0.222222
+"genereg","D","down","jung_c","JUNG software",879,1.0,0.2,0.01,"NA",0.0,63,0.49899
+"genereg","D","down","lattice","Lattice",100,1.0,0.4,0.01,"NA",0.0,84,0.49697
+"genereg","D","down","london_transport","Transportation",369,1.5,1.0,0.01,"NA",0.0,87,1.065657
+"genereg","D","down","metabolic","C. elegans metabolic",453,1.0,0.0,0.01,"NA",0.0,68,0.323232
+"genereg","D","down","montreal","Montreal",29,1.0,0.2,0.01,"NA",0.0,91,0.272727
+"genereg","D","down","netsci","Coauthorship",379,1.0,0.2,0.01,"NA",0.0,67,0.466667
+"genereg","D","down","physician_trust","Physician",117,1.0,0.0,0.01,"NA",0.0,78,0.222222
+"genereg","D","down","powergrid","US power grid",4941,1.500748,0.90757,0.001,"NA",0.0,85,0.997445
+"genereg","D","down","protein","Protein",161,1.2,0.4,0.01,"NA",0.0,69,0.650505
+"genereg","D","down","proximity","Proximity",410,1.0,0.0,0.01,"NA",0.0,82,0.181818
+"genereg","D","down","routeviews","Route views",6474,1.501495,0.315138,0.001,"NA",0.0,85,0.494889
+"genereg","D","down","smallworld","WS",100,1.0,0.0,0.01,"NA",0.0,75,0.252525
+"genereg","D","down","students","Student",141,1.4,0.4,0.01,"NA",0.0,58,0.824242
+"genereg","D","down","train_terrorists","Terrorist",64,1.0,0.0,0.01,"NA",0.0,71,0.292929
+"genereg","D","down","ug_village","Village",187,1.0,0.2,0.01,"NA",0.0,70,0.442424
+"genereg","D","down","urv_email","U. Rovira i Virgili",1133,1.501869,0.018923,0.001,"NA",0.0,84,0.258591
+"genereg","D","down","wiki_ht","Wikipedia user",404,1.0,0.1,0.01,"NA",0.0,53,0.527273
+"genereg","D","down","windsurfers","Windsurfer",43,1.0,0.0,0.01,"NA",0.0,88,0.121212
+"genereg","D","down","yeast","S. cerevisiae",664,1.5,0.5,0.01,"NA",0.0,83,0.671717
+"genereg","u","down","SITC","Product",774,0.0,-0.009886,0.01,1.0,"NA",78,-0.007689
+"genereg","u","down","adjnoun","Word",112,0.0,-1.0,0.01,1.0,"NA",86,-0.858586
+"genereg","u","down","barabasialbert","BA",100,0.0,-1.0,0.01,1.0,"NA",91,-0.909091
+"genereg","u","down","canton","Canton",109,0.0,-1.5,0.01,1.0,"NA",65,-0.969697
+"genereg","u","down","catlins","Catlins",59,0.0,-0.5,0.01,1.0,"NA",46,-0.227273
+"genereg","u","down","chesapeake","Chesapeake",39,0.0,-2.0,0.01,1.0,"NA",90,-1.79798
+"genereg","u","down","contigusa","Geographic",49,0.0,-1.0,0.01,1.0,"NA",55,-0.545455
+"genereg","u","down","dolphin","Dolphin",62,0.0,-1.0,0.01,1.0,"NA",63,-0.626263
+"genereg","u","down","drug","Drug interaction",75,0.0,-0.5,0.01,1.0,"NA",62,-0.308081
+"genereg","u","down","ecoli","E. coli",328,0.0,-0.25,0.01,1.0,"NA",48,-0.118687
+"genereg","u","down","email_company","Email",167,0.0,-0.5,0.01,1.0,"NA",63,-0.313131
+"genereg","u","down","erdos","Erdős collaboration",6927,0.003631,-0.372049,0.001,1.0,"NA",84,-0.311334
+"genereg","u","down","erdosrenyi","ER",100,0.0,-1.0,0.01,1.0,"NA",88,-0.878788
+"genereg","u","down","flamingo","Flamingo software",228,0.0,-0.25,0.01,1.0,"NA",48,-0.118687
+"genereg","u","down","football","Football",115,0.0,-7.0,0.01,1.0,"NA",79,-5.515152
+"genereg","u","down","gap_junction_herm","C. elegans neuronal",460,0.125,-0.018351,0.01,1.0,"NA",83,0.006265
+"genereg","u","down","genefusion","Gene fusion",110,0.303151,-0.196849,0.01,1.0,"NA",84,-0.116041
+"genereg","u","down","gkk","GKK",96,0.0,-0.5,0.01,1.0,"NA",63,-0.313131
+"genereg","u","down","hk100","HK",100,0.0,-2.0,0.01,1.0,"NA",46,-0.909091
+"genereg","u","down","iceland","Contact",75,0.0,-0.5,0.01,1.0,"NA",55,-0.272727
+"genereg","u","down","jazz","Jazz player",198,0.0,-1.0,0.01,1.0,"NA",82,-0.818182
+"genereg","u","down","jung_c","JUNG software",879,0.72395,-0.27605,0.01,1.0,"NA",84,-0.114434
+"genereg","u","down","lattice","Lattice",100,0.0,-2.0,0.01,1.0,"NA",64,-1.272727
+"genereg","u","down","london_transport","Transportation",369,0.125,-0.018351,0.01,1.0,"NA",83,0.006265
+"genereg","u","down","metabolic","C. elegans metabolic",453,0.0,-0.5,0.01,1.0,"NA",55,-0.272727
+"genereg","u","down","montreal","Montreal",29,0.0,-1.0,0.01,1.0,"NA",88,-0.878788
+"genereg","u","down","netsci","Coauthorship",379,0.0,-0.5,0.01,1.0,"NA",62,-0.308081
+"genereg","u","down","physician_trust","Physician",117,0.0,-2.0,0.01,1.0,"NA",90,-1.79798
+"genereg","u","down","powergrid","US power grid",4941,0.25392,-0.04608,0.001,1.0,"NA",85,-0.000625
+"genereg","u","down","protein","Protein",161,0.0,-0.25,0.01,1.0,"NA",85,-0.212121
+"genereg","u","down","proximity","Proximity",410,0.0,-1.0,0.01,1.0,"NA",80,-0.79798
+"genereg","u","down","routeviews","Route views",6474,0.075883,-0.224117,0.001,1.0,"NA",84,-0.175632
+"genereg","u","down","smallworld","WS",100,0.0,-5.0,0.01,1.0,"NA",83,-4.141414
+"genereg","u","down","students","Student",141,0.0,-0.25,0.01,1.0,"NA",68,-0.169192
+"genereg","u","down","train_terrorists","Terrorist",64,0.0,-1.0,0.01,1.0,"NA",96,-0.959596
+"genereg","u","down","ug_village","Village",187,0.0,-0.5,0.01,1.0,"NA",45,-0.222222
+"genereg","u","down","urv_email","U. Rovira i Virgili",1133,0.006609,-0.359184,0.001,1.0,"NA",85,-0.303761
+"genereg","u","down","wiki_ht","Wikipedia user",404,0.0,-0.5,0.01,1.0,"NA",42,-0.207071
+"genereg","u","down","windsurfers","Windsurfer",43,0.0,-7.5,0.01,1.0,"NA",79,-5.909091
+"genereg","u","down","yeast","S. cerevisiae",664,0.732353,-0.267647,0.01,1.0,"NA",84,-0.106031
+"mutualistic","D","down","SITC","Product",774,1.5,1.0,0.01,"NA",-5.0,80,1.10101
+"mutualistic","D","down","adjnoun","Word",112,1.5,0.5,0.01,"NA",-5.0,65,0.853535
+"mutualistic","D","down","barabasialbert","BA",100,1.5,0.5,0.01,"NA",-5.0,96,0.540404
+"mutualistic","D","down","canton","Canton",109,1.5,0.5,0.01,"NA",-5.0,77,0.732323
+"mutualistic","D","down","catlins","Catlins",59,2.0,1.0,0.01,"NA",-5.0,92,1.080808
+"mutualistic","D","down","chesapeake","Chesapeake",39,1.0,0.2,0.01,"NA",-5.0,81,0.353535
+"mutualistic","D","down","contigusa","Geographic",49,1.5,0.5,0.01,"NA",-5.0,52,0.984848
+"mutualistic","D","down","dolphin","Dolphin",62,1.5,0.5,0.01,"NA",-5.0,55,0.954545
+"mutualistic","D","down","drug","Drug interaction",75,2.0,1.0,0.01,"NA",-5.0,97,1.030303
+"mutualistic","D","down","ecoli","E. coli",328,2.0,1.0,0.01,"NA",-5.0,91,1.090909
+"mutualistic","D","down","email_company","Email",167,1.5,0.5,0.005,"NA",-5.0,56,0.944444
+"mutualistic","D","down","erdos","Erdős collaboration",6927,1.50096,0.739714,0.001,"NA",-5.0,84,0.862743
+"mutualistic","D","down","erdosrenyi","ER",100,1.5,0.5,0.01,"NA",-5.0,64,0.863636
+"mutualistic","D","down","flamingo","Flamingo software",228,2.0,1.0,0.01,"NA",-5.0,91,1.090909
+"mutualistic","D","down","football","Football",115,1.0,0.0,0.01,"NA",-5.0,83,0.171717
+"mutualistic","D","down","gap_junction_herm","C. elegans neuronal",460,2.0,1.0,0.01,"NA",-5.0,90,1.10101
+"mutualistic","D","down","genefusion","Gene fusion",110,1.5,1.0,0.01,"NA",-5.0,82,1.090909
+"mutualistic","D","down","gkk","GKK",96,1.5,0.9,0.01,"NA",-5.0,83,1.00303
+"mutualistic","D","down","hk100","HK",100,1.0,0.5,0.01,"NA",-5.0,91,0.545455
+"mutualistic","D","down","iceland","Contact",75,1.5,0.5,0.01,"NA",-5.0,54,0.964646
+"mutualistic","D","down","jazz","Jazz player",198,1.5,0.5,0.005,"NA",-5.0,70,0.80303
+"mutualistic","D","down","jung_c","JUNG software",879,1.5,1.0,0.01,"NA",-5.0,84,1.080808
+"mutualistic","D","down","lattice","Lattice",100,1.0,0.0,0.01,"NA",-5.0,65,0.353535
+"mutualistic","D","down","london_transport","Transportation",369,1.5,0.5,0.01,"NA",-5.0,40,1.106061
+"mutualistic","D","down","metabolic","C. elegans metabolic",453,1.5,0.5,0.005,"NA",-5.0,45,1.055556
+"mutualistic","D","down","montreal","Montreal",29,1.5,0.5,0.01,"NA",-5.0,65,0.853535
+"mutualistic","D","down","netsci","Coauthorship",379,1.5,0.5,0.01,"NA",-5.0,52,0.984848
+"mutualistic","D","down","physician_trust","Physician",117,1.0,0.0,0.01,"NA",-5.0,54,0.464646
+"mutualistic","D","down","powergrid","US power grid",4941,1.504681,1.020252,0.001,"NA",-5.0,84,1.098544
+"mutualistic","D","down","protein","Protein",161,2.0,1.0,0.01,"NA",-5.0,92,1.080808
+"mutualistic","D","down","proximity","Proximity",410,1.5,0.5,0.01,"NA",-5.0,62,0.883838
+"mutualistic","D","down","routeviews","Route views",6474,1.500648,0.98656,0.001,"NA",-5.0,84,1.069645
+"mutualistic","D","down","smallworld","WS",100,1.0,0.0,0.01,"NA",-5.0,80,0.20202
+"mutualistic","D","down","students","Student",141,1.5,0.5,0.01,"NA",-5.0,58,0.924242
+"mutualistic","D","down","train_terrorists","Terrorist",64,1.5,0.5,0.01,"NA",-5.0,71,0.792929
+"mutualistic","D","down","ug_village","Village",187,1.5,0.5,0.01,"NA",-5.0,43,1.075758
+"mutualistic","D","down","urv_email","U. Rovira i Virgili",1133,1.500685,0.956938,0.001,"NA",-5.0,85,1.039324
+"mutualistic","D","down","wiki_ht","Wikipedia user",404,1.5,1.0,0.005,"NA",-5.0,85,1.075758
+"mutualistic","D","down","windsurfers","Windsurfer",43,1.0,0.0,0.01,"NA",-5.0,84,0.161616
+"mutualistic","D","down","yeast","S. cerevisiae",664,1.5,1.0,0.01,"NA",-5.0,82,1.090909
+"mutualistic","u","down","SITC","Product",774,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","adjnoun","Word",112,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","barabasialbert","BA",100,0.0,-3.0,0.01,0.05,"NA",96,-2.878788
+"mutualistic","u","down","canton","Canton",109,0.0,-3.0,0.01,0.05,"NA",94,-2.818182
+"mutualistic","u","down","catlins","Catlins",59,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","chesapeake","Chesapeake",39,0.0,-4.0,0.01,0.05,"NA",74,-2.949495
+"mutualistic","u","down","contigusa","Geographic",49,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","dolphin","Dolphin",62,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","drug","Drug interaction",75,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","ecoli","E. coli",328,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","email_company","Email",167,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","erdos","Erdős collaboration",6927,0.004187,-3.317612,0.001,0.05,"NA",84,-2.780755
+"mutualistic","u","down","erdosrenyi","ER",100,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","flamingo","Flamingo software",228,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","football","Football",115,0.0,-4.0,0.01,0.05,"NA",83,-3.313131
+"mutualistic","u","down","gap_junction_herm","C. elegans neuronal",460,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","genefusion","Gene fusion",110,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","gkk","GKK",96,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","hk100","HK",100,0.0,-3.0,0.01,0.05,"NA",96,-2.878788
+"mutualistic","u","down","iceland","Contact",75,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","jazz","Jazz player",198,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","jung_c","JUNG software",879,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","lattice","Lattice",100,0.0,-4.0,0.01,0.05,"NA",75,-2.989899
+"mutualistic","u","down","london_transport","Transportation",369,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","metabolic","C. elegans metabolic",453,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","montreal","Montreal",29,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","netsci","Coauthorship",379,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","physician_trust","Physician",117,0.0,-3.0,0.01,0.05,"NA",96,-2.878788
+"mutualistic","u","down","powergrid","US power grid",4941,0.004187,-3.317612,0.001,0.05,"NA",84,-2.780755
+"mutualistic","u","down","protein","Protein",161,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","proximity","Proximity",410,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","routeviews","Route views",6474,0.004187,-3.317612,0.001,0.05,"NA",84,-2.780755
+"mutualistic","u","down","smallworld","WS",100,0.0,-4.0,0.01,0.05,"NA",80,-3.191919
+"mutualistic","u","down","students","Student",141,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","train_terrorists","Terrorist",64,0.0,-3.0,0.01,0.05,"NA",94,-2.818182
+"mutualistic","u","down","ug_village","Village",187,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","urv_email","U. Rovira i Virgili",1133,0.004187,-3.317612,0.001,0.05,"NA",84,-2.780755
+"mutualistic","u","down","wiki_ht","Wikipedia user",404,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
+"mutualistic","u","down","windsurfers","Windsurfer",43,0.0,-4.0,0.01,0.05,"NA",83,-3.313131
+"mutualistic","u","down","yeast","S. cerevisiae",664,0.0,-3.0,0.01,0.05,"NA",93,-2.787879
