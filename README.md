@@ -136,10 +136,7 @@ repeated per script:
   first node tips. Every EWS in the paper is computed over it, so all four analysis scripts obtain it
   from this one function.
 - **`supf.py`** — the sup-F test for a structural change at an unknown breakpoint , in both its non-sequential and sequential forms, together with the Monte-Carlo
-  calibration of its null distribution. Note on naming: the statistic maximized over breakpoints is
-  the Chow F statistic, so the test is the sup-F test; in a
-  Gaussian linear regression those variants are strictly increasing functions of the same F and give
-  the same p-value under the Monte-Carlo calibration used here. `supf_temporal.py`
+  calibration of its null distribution. `supf_temporal.py`
   applies the very same functions to the single-node temporal variance, so the temporal-versus-spatial
   comparison of Fig. 5 is made with one test rather than two similar ones.
 
@@ -171,12 +168,10 @@ one at which any node has left its initial state. All EWSs are computed over the
 **Choosing the control-parameter range.** The 100 control values of a condition must bracket its
 transition. The script reads a starting range from `data/simulation_parameters.csv` and, where that
 range does not leave a usable home range, re-places it so that the tipping point falls at about 85% of
-the range; a range is accepted only once at least `HOME_MIN = 30` of the 100 control values precede the
-tip. Every condition therefore contributes a comparable amount of pre-tipping data. The range actually
-used is written back to the `.json` metadata and to `simulation_parameters.csv`.
+the range. The range actually used is written back to the `.json` metadata and to `simulation_parameters.csv`.
 
 **`data/simulation_parameters.csv`** is the table of settings referred to in section S4 of the
-Supplementary Material (in the arXiv version of the paper). It has one row per simulation condition (400 rows) and the columns:
+Supplementary Material of the paper. It has one row per simulation condition (400 rows) and the columns:
 
 | column | meaning |
 |---|---|
@@ -233,9 +228,6 @@ overwrites its CSV with results over whichever networks Stage 1 has produced dat
 - **`perpair_tau.csv` / `perpair_supf.csv`** — for each condition and *L'*, the mean and standard deviation
   over the 400 (40 networks x 10 nodes) values of tau' (resp. of the non-sequential and sequential sup-F
   success indicators). These drive Fig 5 and Figs S2-S4 (curve = mean, band = mean +/- 1 s.d.).
-
-Note that these files name each network by its code name only, and hold aggregate EWS statistics; they
-contain no network structure and so redistribute none of the empirical data.
 
 ## Stage 3 — figures
 
