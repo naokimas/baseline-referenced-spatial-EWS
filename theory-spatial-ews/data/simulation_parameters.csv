@@ -1,0 +1,11 @@
+network,cparam,far,near,deltaT
+lattice,D,1.0,0.0,0.01
+lattice,u,0.0,-4.0,0.01
+montreal,D,1.0,0.3,0.01
+montreal,u,0.0,-4.0,0.01
+jazz,D,0.6,0.3,0.01
+jazz,u,0.0,-4.0,0.01
+metabolic,D,0.8,0.3,0.005
+metabolic,u,0.0,-4.0,0.005
+powergrid,D,1.0,0.3,0.001
+powergrid,u,0.0,-4.0,0.001

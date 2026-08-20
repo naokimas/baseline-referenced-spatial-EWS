@@ -1,0 +1,11 @@
+label,network,cparam,N,dt,far,near,home_len,seed
+jazz-D,jazz,D,198,0.01,0.6,0.3,79,860592001
+jazz-u,jazz,u,198,0.01,0.0,-4.0,81,1181066001
+lattice-D,lattice,D,100,0.01,1.0,0.0,88,1025926001
+lattice-u,lattice,u,100,0.01,0.0,-4.0,95,2793404001
+metabolic-D,metabolic,D,453,0.005,0.8,0.3,78,3120722001
+metabolic-u,metabolic,u,453,0.005,0.0,-4.0,79,1751656001
+montreal-D,montreal,D,29,0.01,1.0,0.3,91,2292454001
+montreal-u,montreal,u,29,0.01,0.0,-4.0,81,2437084001
+powergrid-D,powergrid,D,4941,0.001,1.0,0.3,82,2087085001
+powergrid-u,powergrid,u,4941,0.001,0.0,-4.0,78,987543001
