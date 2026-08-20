@@ -16,3 +16,7 @@ manuscript, the networks, and the reproducibility of the noise — is in the
 Since the output of stage 1 is committed under `data/equilibria/`, running stage 2 alone reproduces
 Fig. 1 exactly. The figure files themselves are not stored in the repository; they are regenerated
 by that one command.
+
+Both scripts read the adjacency matrices from `data/networks/`, and the four empirical ones are not
+redistributed here; see "Data availability" in the [top-level README](../README.md) before running
+either stage.
